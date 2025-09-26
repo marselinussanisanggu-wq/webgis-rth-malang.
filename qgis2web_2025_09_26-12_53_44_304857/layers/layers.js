@@ -1,4 +1,4 @@
-var wms_layers = [];
+var wms_layers = [layers.js];
 
 
         var lyr_EsriWorldImagery_0 = new ol.layer.Tile({
